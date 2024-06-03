@@ -1,0 +1,20 @@
+{
+  "fruitDealer": {
+    "Dragon": {
+      "beli": 50000000,
+      "diamond": 2,
+      "robux": 1000,
+      "instock": false,
+      "icon": "rbxasset://textures/ui/GuiImagePlaceholder.png",
+      "rarity": ["Legendary", "255, 69, 69"]
+    },
+    "Bomb": {
+      "beli": 500000,
+      "diamond": 2,
+      "robux": 100,
+      "instock": true,
+      "icon": "rbxasset://textures/ui/GuiImagePlaceholder.png",
+      "rarity": ["Common", "108, 108, 108"]
+    }
+  }
+}
